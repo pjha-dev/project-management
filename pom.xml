@@ -11,7 +11,7 @@
 	<groupId>com.pjhadev</groupId>
 	<artifactId>project_management</artifactId>
 	<version>0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>project_management</name>
 	<description>Project Management App</description>
 	<properties>
